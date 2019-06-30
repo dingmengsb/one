@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/main", 
+    "pages/mySite/main",
+    "pages/my/main",
+    "pages/addSite/main",
+    "pages/addInterview/main"
+    
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于该小程序"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "一面而就",
+    "navigationBarTextStyle": "black"
+  }
+}
